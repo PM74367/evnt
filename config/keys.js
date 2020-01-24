@@ -1,4 +1,4 @@
 module.exports = {
-    mongourl: "mongodb+srv://sahil:sahil@evntworks-ichbp.mongodb.net/test?retryWrites=true&w=majority",
+    mongourl: "mongodb+srv://name:password@evntworks-ichbp.mongodb.net/test?retryWrites=true&w=majority",
     secretOrKey: "secret"
   }
