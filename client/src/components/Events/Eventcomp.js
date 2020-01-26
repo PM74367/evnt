@@ -20,7 +20,6 @@ class Eventcomp extends Component {
             data: [],
         }
         this.onRowDeletea=this.onRowDeletea.bind(this);
-        // this.fetchdata=this.fetchdata.bind(this);
     }
 
     componentDidMount() {
@@ -122,8 +121,3 @@ class Eventcomp extends Component {
 
 
 export default Eventcomp;
-
-
-
-
-
