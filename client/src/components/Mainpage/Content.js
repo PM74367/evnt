@@ -109,17 +109,12 @@ const Content = ()=> (
 				</h2>
 				<ul className="list-inline list-social" style={{textAlign:'center'}}>
 					<li className="list-inline-item social-twitter">
-						<a style={{padding:'25px'}} target="blank" href="https://www.linkedin.com/in/sahil-kumar-4aa514176/">
+						<a style={{padding:'25px'}} target="blank" href="https://www.linkedin.com/in/puneet-mittal-01a593199/">
 						<FontAwesome name="linkedin" className="mb-3" size="4x"/>
 						</a>
-					</li>
-					<li className="list-inline-item social-twitter">
-						<a style={{padding:'25px'}} target="blank" href="https://twitter.com/Sahil01689678">
-						<FontAwesome name="twitter" className="mb-3" size="4x"/>
-						</a>
-					</li>
+					
 					<li className="list-inline-item social-github">
-						<a style={{padding:'25px'}} target="blank" href="https://github.com/kumarsgoyal">
+						<a style={{padding:'25px'}} target="blank" href="https://github.com/pm74367">
 						<FontAwesome name="github" className="mb-3" size="4x"/>
 						</a>
 					</li>
