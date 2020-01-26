@@ -12,7 +12,6 @@ const style = {
 };
 
 class Form extends Component {
-
     constructor(props){
         super(props);
         this.state={
@@ -35,7 +34,6 @@ class Form extends Component {
         var str = history.location.pathname
         var array = str.split(":",2);
         this.setState({username:array[1]});
-        
     }
 
     clickHandler = (event) =>{
@@ -65,7 +63,6 @@ class Form extends Component {
         }).catch( err => {
             console.log(err);
         });
-
     }
 
     handleDate(event, date){
